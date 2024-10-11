@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## 🚀 Sobre mí
 ¡Bienvenid@ a mi perfil! Soy un apasionado de la programación  Actualmente, me estoy graduado como **Desarrollador de Aplicaciones Web** y este año estoy cursando **Desarrollo de Aplicaciones Multiplataforma**, además de un curso de especialización en **Big Data e Inteligencia Artificial**. 😎
 
+Esta cuenta la uso para mi formación y trabajos académicos
+
 ## 💼 Actualmente estoy trabajando en:
 - Mejorar mis habilidades en **React** para el desarrollo de páginas web dinámicas.
 - Aprendiendo **Machine Learning** e **Inteligencia Artificial** para sacar provecho de los datos de una manera más inteligente. 🤖
