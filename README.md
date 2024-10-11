@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - 🎮 Gamer en mis ratos libres, aunque ahora tenga pocos.
 
 ## 🛠️ Proyectos en los que estoy trabajando:
-- ** Actualmente por falta de tiempo no estoy desarrollodando niguno, pero te invito a mi web, para que consultes los realizados.
+-  Actualmente por falta de tiempo no estoy desarrollodando niguno, pero te invito a mi web, para que consultes los realizados.
 
 
